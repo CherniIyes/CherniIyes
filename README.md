@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cherniiy3s" target="blank"><img src="https://img.shields.io/twitter/follow/cherniiy3s?logo=twitter&style=for-the-badge" alt="cherniiy3s" /></a> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **Next.js**
 
