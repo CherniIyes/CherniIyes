@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Three.js.**
 
-- 👨‍💻 All of my projects are available at [https://iyes-s-portfolio.vercel.app/](https://iyes-s-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [iyes-s-portfolio.vercel.app](iyes-s-portfolio.vercel.app)
 
 - 💬 Ask me about **Next.js.**
 
 - 📫 How to reach me **cherniiyes@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cherni-iyes-93003b2b9/](https://www.linkedin.com/in/cherni-iyes-93003b2b9/)
+- 📄 Know about my experiences [www.linkedin.com/in/cherni-iyes-93003b2b9](www.linkedin.com/in/cherni-iyes-93003b2b9)
 
 - ⚡ Fun fact **I think that sometimes I am funny**
 
