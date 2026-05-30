@@ -20,7 +20,7 @@
 <a href="https://twitter.com/cherniiy3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cherniiy3s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cherni iyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherni iyes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22252538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22252538" height="30" width="40" /></a>
-<a href="https://fb.com/cherni iyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cherni iyes" height="30" width="40" /></a>
+<a href="https://fb.com/cherni.iyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cherni iyes" height="30" width="40" /></a>
 <a href="https://instagram.com/cherniiy3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cherniiy3s" height="30" width="40" /></a>
 </p>
 
